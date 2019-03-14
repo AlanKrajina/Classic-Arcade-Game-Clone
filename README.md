@@ -1,5 +1,5 @@
 # Classic Arcade Game Clone
-Classic Arcade Game is the 3rd Udacity Project in the Front-End Web Developer Nanodegree. The project focuses heavily on Object-Oriented Javascript especially the use of Constructor functions and Prototypal inheritance.
+Classic Arcade Game is the 3rd Udacity Project in the Front-End Web Developer Nanodegree. The project focuses heavily on Object-Oriented Javascript especially the use of Constructor functions, Prototypal inheritance and HTML5 Canvas API.
 
 # Installation
 1. Download the repository as a zip-file, extract it and open the index.html to run the Game.
